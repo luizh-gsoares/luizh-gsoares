@@ -2,7 +2,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true">
 
 <p>Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong><br/></p>
-<p>Estagiário de Desenvolvimento WEB no **Conselho Federal de Engenharia e Agronomia.**<br/></p>
+<p>Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong> <br/></p>
 
 
 ### Linguagens e Ferramentas:
@@ -12,7 +12,7 @@
 
 
 <hr>
-### Experiência de trabalho
+<h3> Experiência de trabalho </h3>
 <hr>
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
