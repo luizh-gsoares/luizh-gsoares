@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=default&show_icons=true">
 
-<!--
-**luizh-gsoares/luizh-gsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Faça um breve apresentação sobre você
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/static/v1?label=Overview&message=LUIZH-GSOARES&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+Estudando **Engenharia de Software** na **Universidade de Brasília - UnB.**<br/>
+
+Eu sou desenvolvedor ****.
+
+
+</p>
+<hr>
