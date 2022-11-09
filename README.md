@@ -5,12 +5,10 @@
 <p>Estagiário de Desenvolvimento WEB no **Conselho Federal de Engenharia e Agronomia.**<br/></p>
 
 
-<hr>
 ### Linguagens e Ferramentas:
 <hr>
 
 
-<hr>
 ### Experiência de trabalho
 <hr>
 
