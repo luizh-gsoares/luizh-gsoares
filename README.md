@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é <strong> Luiz Soares :) </strong> </h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true&bg_color=1a1a1a&text_color=BFBFBF&title_color=FFF&icon_color=E8E8E8">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=default&show_icons=true&bg_color=1a1a1a&text_color=BFBFBF&title_color=FFF&icon_color=E8E8E8">
 <p>
     Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
     e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
@@ -22,6 +22,7 @@
 
 ### Linguagens e Ferramentas
 <hr>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizh-gsoares&theme=default&show_icons=true&bg_color=1a1a1a&text_color=BFBFBF&title_color=FFF&icon_color=E8E8E8">
 
 
 ### Experiência de trabalho
