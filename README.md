@@ -1,6 +1,6 @@
   <h2> Olá, meu nome é <strong> Luiz Soares :) </strong> </h2>
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true">
-    <p style="">
+    <p style="text-align: justify;">
         Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong>
         e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
     </p>
@@ -20,17 +20,16 @@
     </a>
 </div>
 
-<h2> Linguagens e Ferramentas : </h2>
+### Linguagens e Ferramentas :
 <hr>
 
 
-<h2> Experiência de trabalho </h2>
+### Experiência de trabalho
 <hr>
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/D4D0BAQH5VL588fHT8Q/company-logo_200_200/0/1667324845588?e=1675900800&v=beta&t=B5Fq-_qrrTJ2T0gUSmQbj98e4WZxmhSLnH9-3ovW4a0"/>](https://www.confea.org.br)
-
 **Desenvolvimento WEB** \
 [**CONFEA**](https://www.confea.org.br) • Intern \
 Linguagens & Tecnologias: `C#`, `.NET`, `PHP`, `JavaScript`, `AngularJS`, `JQuery`,\
