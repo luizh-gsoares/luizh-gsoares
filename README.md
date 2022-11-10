@@ -1,19 +1,16 @@
 ## Olá, meu nome é <strong> Luiz Soares :) </strong>
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true">
 
-<p>Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong><br/></p>
-<p>Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong> <br/></p>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/luizh.gsoares)
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />(https://www.linkedin.com/in/p/luizh.gsoares)
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/p/luizh.gsoares)
+<p>Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong><br/> e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong> <br/></p>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/luizh.gsoares"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href="https://www.twitter.com/luizhgsoares"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/p/luizh.gsoares"/>
 
 <hr>
 <h2> Linguagens e Ferramentas : </h2>
 <hr>
 <p> Linguagens :</p>
-
-
-
 
 <hr>
 <h2> Experiência de trabalho </h2>
@@ -26,7 +23,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvimento WEB** \
 [**CONFEA**](https://www.confea.org.br) • Intern \
 Linguagens & Tecnologias: `C#`, `.NET`, `PHP`, `JavaScript`, `AngularJS`, `JQuery`,\
-Projetos em destaque: [##](https://www.google.com/), [##](https://pt.wikipedia.org/wiki/Marte_(planeta))
-<br/> 
+Projetos em destaque: [##](https://www.google.com/), [##](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+<br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/p/luizh.gsoares) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
