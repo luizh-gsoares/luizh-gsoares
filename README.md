@@ -2,18 +2,25 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true">
 
-<p>Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong> 
-e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong></p>
-![https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/luizh.gsoares)
-![https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://www.twitter.com/luizhgsoares)
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/p/luizh.gsoares)
-![https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white](https://dev.to/luizhgsoares)
+<p>
+Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong> 
+e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
+</p>
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
 <hr>
 <h2> Linguagens e Ferramentas : </h2>
 <hr>
 <p> Linguagens :</p>
+![https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://www.java.com/pt-BR/)
+
+
+
 
 <hr>
 <h2> Experiência de trabalho </h2>
