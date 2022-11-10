@@ -17,10 +17,10 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.confea.org.br%2Fassociacao-e-reconhecida-como-entidade-precursora&psig=AOvVaw3KDFmPpa1Rbuj7dsHua0Ob&ust=1668165151632000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDzss69o_sCFQAAAAAdAAAAABAD"/>](https://www.confea.org.br)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/D4D0BAQH5VL588fHT8Q/company-logo_200_200/0/1667324845588?e=1675900800&v=beta&t=B5Fq-_qrrTJ2T0gUSmQbj98e4WZxmhSLnH9-3ovW4a0"/>](https://www.confea.org.br)
 
 **Estagiário de Desenvolvimento WEB** \
-[**CONFEA**](https://www.confea.org.br) • Full-time \
+[**CONFEA**](https://www.confea.org.br) • Intern \
 Linguagens & Tecnologias: `C#`, `.NET`, `PHP`, `JavaScript`, `AngularJS`, `JQuery`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
 <br/> 
