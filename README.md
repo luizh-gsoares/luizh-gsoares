@@ -1,5 +1,5 @@
 <h2> Olá, meu nome é <strong> Luiz Soares :) </strong> </h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true&bg_color=1a1a1a&text_color=CED0CE&title_color=FFF&icon_color=858786">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true&bg_color=1a1a1a&text_color=858786&title_color=FFF&icon_color=CED0CE">
 <p>
     Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
     e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
