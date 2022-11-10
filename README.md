@@ -1,33 +1,32 @@
-## Olá, meu nome é <strong> Luiz Soares :) </strong>
+ <h1> Olá, meu nome é <strong> Luiz Soares :) </strong> </h1>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=tokyonight&show_icons=true">
 
 <div align="left">
     <p>
-    Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong> 
-    e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
+        Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong>
+        e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
     </p>
 
-<a href="https://www.instagram.com/luizh.gsoares/" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+    <a href="https://www.instagram.com/luizh.gsoares/" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
 
-<a href="https://www.linkedin.com/in/luizh.gsoares" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
-</a>
+    <a href="https://www.linkedin.com/in/luizh.gsoares" alt="Linkedin">
+        <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF" />
+    </a>
 
-<a href="https://dev.to/luizhgsoares" alt="DEVTO">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<a href="https://www.twitter.com.br/luizhgsoares" alt="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
+    <a href="https://dev.to/luizhgsoares" alt="DEVTO">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+    </a>
+    <a href="https://www.twitter.com.br/luizhgsoares" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+    </a>
 </div>
 
 <hr>
 <h2> Linguagens e Ferramentas : </h2>
 <hr>
-<p> Linguagens :</p>
 ![https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://www.java.com/pt-BR/)
 
 <hr>
