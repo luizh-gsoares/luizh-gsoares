@@ -3,16 +3,20 @@
 
 <p>Estudando <strong> Engenharia de Software </strong> na <strong> Universidade de Brasília - UnB</strong><br/></p>
 <p>Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong> <br/></p>
-
-
-### Linguagens e Ferramentas:
-<hr>
-
-
-
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/luizh.gsoares)
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />(https://www.linkedin.com/in/p/luizh.gsoares)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/p/luizh.gsoares)
 
 <hr>
-<h3> Experiência de trabalho </h3>
+<h2> Linguagens e Ferramentas : </h2>
+<hr>
+<p> Linguagens :</p>
+
+
+
+
+<hr>
+<h2> Experiência de trabalho </h2>
 <hr>
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
