@@ -7,16 +7,16 @@
 
 <div align="left">
     <a href="https://www.instagram.com/luizh.gsoares/" alt="Instagram">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=1a1a1a;" />
+        <img src="https://img.shields.io/badge/Instagram-1a1a1a.svg?style=for-the-badge&logo=Instagram&logoColor=FFF;" />
     </a>
     <a href="https://www.linkedin.com/in/luizh.gsoares" alt="Linkedin">
-        <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=1a1a1a;" />
+        <img src="https://img.shields.io/badge/-Linkedin-1a1a1a?style=for-the-badge&logo=Linkedin&logoColor=FFF;" />
     </a>
     <a href="https://dev.to/luizhgsoares" alt="DEVTO">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=1a1a1a;" />
+        <img src="https://img.shields.io/badge/dev.to-1a1a1a?style=for-the-badge&logo=dev.to&logoColor=FFF;" />
     </a>
     <a href="https://www.twitter.com.br/luizhgsoares" alt="Twitter">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=1a1a1a;" />
+        <img src="https://img.shields.io/badge/Twitter-1a1a1a.svg?style=for-the-badge&logo=Twitter&logoColor=FFF;" />
     </a>
 </div>
 
