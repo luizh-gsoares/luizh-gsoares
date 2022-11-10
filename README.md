@@ -17,7 +17,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.confea.org.br%2Fassociacao-e-reconhecida-como-entidade-precursora&psig=AOvVaw3KDFmPpa1Rbuj7dsHua0Ob&ust=1668165151632000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDzss69o_sCFQAAAAAdAAAAABAD"/>](https://www.confea.org.br)
 
 **Estagiário de Desenvolvimento WEB** \
 [**CONFEA**](https://www.confea.org.br) • Full-time \
