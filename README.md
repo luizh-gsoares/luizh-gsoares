@@ -3,6 +3,7 @@
 <p>
     Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
     e Estagiário de Desenvolvimento WEB no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
+    Desenvolvedor Júnior em .NET e PHP, interessado em uma formação Full-Stack.
 </p>
 
 <div align="left">
