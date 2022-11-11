@@ -1,3 +1,4 @@
+<div>
 <h2> Olá, meu nome é <strong> Luiz Soares :) </strong> </h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=default&show_icons=true&bg_color=1a1a1a&text_color=BFBFBF&title_color=FFF&icon_color=E8E8E8">
 <p>
@@ -19,11 +20,14 @@
         <img src="https://img.shields.io/badge/Twitter-1a1a1a.svg?style=for-the-badge&logo=Twitter&logoColor=FFF;" />
     </a>
 </div>
+</div>
 
 ### Linguagens, Frameworks e Ferramentas
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizh-gsoares&theme=default&show_icons=true&bg_color=1a1a1a&text_color=BFBFBF&title_color=FFF&icon_color=E8E8E8">
-Linguagens:
+
+#### Linguagens:
+<hr>
 <div align="left">
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -34,7 +38,8 @@ Linguagens:
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-Frameworks :
+#### Frameworks, plataformas e bibliotecas :
+<hr>
 <div align="left">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -48,7 +53,8 @@ Frameworks :
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-Ferramentas :
+#### Ferramentas :
+<hr>
 <div align="left">
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
@@ -62,13 +68,11 @@ Ferramentas :
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
 <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
-
-
 </div>
 
 
 
-
+<div> 
 ### Experiência de trabalho
 <hr>
 
@@ -82,3 +86,4 @@ Projetos em destaque: [##](https://www.google.com/), [##](<https://pt.wikipedia.
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/p/luizh.gsoares) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+</div>
