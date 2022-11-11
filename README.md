@@ -21,7 +21,7 @@
 </div>
 
 <hr>
-### Linguagens, Frameworks e Ferramentas
+<h3> Linguagens, Frameworks e Ferramentas</h3>
 <hr>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizh-gsoares&theme=default&show_icons=true&bg_color=1a1a1a&text_color=BFBFBF&title_color=FFF&icon_color=E8E8E8">
 
@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 <hr>
-### Experiência de trabalho
+<h3> Experiência de trabalho </h3>
 <hr>
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
