@@ -78,5 +78,5 @@ Linguagens & Tecnologias: `C#`, `.NET`, `PHP`, `JavaScript`, `AngularJS`, `JQuer
 Projetos em destaque: [##](https://www.google.com/), [##](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/p/luizh.gsoares) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/p/luizh-gsoares) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 </div>
