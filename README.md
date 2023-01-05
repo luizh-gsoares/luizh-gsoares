@@ -64,19 +64,3 @@
 <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"/>
 <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-<hr>
-<h3> Experiência de trabalho </h3>
-<hr>
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/D4D0BAQH5VL588fHT8Q/company-logo_200_200/0/1667324845588?e=1675900800&v=beta&t=B5Fq-_qrrTJ2T0gUSmQbj98e4WZxmhSLnH9-3ovW4a0"/>](https://www.confea.org.br)
-**Desenvolvimento WEB** \
-[**CONFEA**](https://www.confea.org.br) • Intern \
-Linguagens & Tecnologias: `C#`, `.NET`, `PHP`, `JavaScript`, `AngularJS`, `JQuery`,\
-Projetos em destaque: [##](https://www.google.com/), [##](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-<br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/luizh-gsoares/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-</div>
