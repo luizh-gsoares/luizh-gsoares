@@ -1,5 +1,4 @@
 <h2> Olá, meu nome é <strong> Luiz Soares :) </strong> </h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luizh-gsoares&theme=default&show_icons=true&bg_color=1a1a1a&text_color=BFBFBF&title_color=FFF&icon_color=E8E8E8">
 <p>
     Trabalho atualmente como desenvolvedor Júnior ASP.NET MVC, .NET, C# e SQL Server.
     Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
