@@ -6,7 +6,6 @@
 </p>
 
 <div align="center">
-    <p> <a href="https://luizh-gsoares.github.io" style="text-decoration:none";> 🌎: https://luizh-gsoares.github.io </a> </p>
     <a href="https://www.instagram.com/luizh.gsoares/" alt="Instagram">
         <img src="https://img.shields.io/badge/Instagram-1a1a1a.svg?style=for-the-badge&logo=Instagram&logoColor=FFF;"/>
     </a>
