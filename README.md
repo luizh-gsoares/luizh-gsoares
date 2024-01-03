@@ -1,9 +1,11 @@
-<h2> Olá, meu nome é <strong> Luiz Soares :) </strong> </h2>
-<p>
-    Trabalho atualmente como desenvolvedor Júnior ASP.NET MVC, .NET, C# e SQL Server.
-    Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
-    e Estagiário de Desenvolvimento de Software no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
-</p>
+<div align="center">
+    <h2> Olá, meu nome é <strong> Luiz Henrique Soares :) </strong> </h2>
+    <p>
+        Trabalho atualmente como desenvolvedor Júnior ASP.NET MVC, .NET, C# e SQL Server.
+        Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
+        e Estagiário de Desenvolvimento de Software no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
+    </p>
+</div>
 
 <div align="center">
     <a href="https://www.instagram.com/luizh.gsoares/" alt="Instagram">
