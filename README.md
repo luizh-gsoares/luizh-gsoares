@@ -3,7 +3,7 @@
     <p>
         Trabalho atualmente como desenvolvedor Júnior ASP.NET MVC, .NET, C# e SQL Server.
         Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
-        e Estagiário de Desenvolvimento de Software no <strong>Conselho Federal de Engenharia e Agronomia.</strong>
+        e sou estagiário de Desenvolvimento de Software na <strong>Caixa Econômica Federal.</strong>
     </p>
 </div>
 
