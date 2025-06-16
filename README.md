@@ -14,9 +14,6 @@
     <a href="https://www.linkedin.com/in/luizh-gsoares" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-Linkedin-1a1a1a?style=for-the-badge&logo=Linkedin&logoColor=FFF;" />
     </a>
-    <a href="https://www.twitter.com.br/luizhgsoares" alt="Twitter">
-        <img src="https://img.shields.io/badge/Twitter-1a1a1a.svg?style=for-the-badge&logo=Twitter&logoColor=FFF;" />
-    </a>
     <a href="https://luizh-gsoares.github.io" alt="Website">
         <img src="https://img.shields.io/badge/Website-1a1a1a.svg?style=for-the-badge&logo=About.me&logoColor=FFF;" />
     </a>
