@@ -1,9 +1,9 @@
 <div align="center">
     <h2> Olá, meu nome é <strong> Luiz Henrique Soares :) </strong> </h2>
     <p>
-        Trabalho atualmente como desenvolvedor Júnior ASP.NET MVC, .NET, C# e SQL Server.
+        Trabalho atualmente como Analista de Desenvolvimento Júnior ASP.NET MVC, .NET, C# e SQL Server.
         Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
-        e sou estagiário de Desenvolvimento de Software na <strong>Caixa Econômica Federal.</strong>
+        e atuo como dev na <strong>Caixa Econômica Federal.</strong>
     </p>
 </div>
 
