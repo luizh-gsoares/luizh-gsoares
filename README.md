@@ -3,7 +3,7 @@
     <p>
         Trabalho atualmente como Analista de Desenvolvimento Júnior ASP.NET MVC, .NET, C# e SQL Server.
         Estudando <strong>Engenharia de Software</strong> na <strong>Universidade de Brasília - UnB</strong>
-        e atuo como Analista de Desenvolvimento Jr na <strong>Stefanini Brasil.</strong>
+        e atuo como Analista de Desenvolvimento Jr na <strong>Stefanini.</strong>
     </p>
 </div>
 
